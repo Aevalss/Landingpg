@@ -1,4 +1,4 @@
-$(function () {
+Jquery(function () {
   $(".rev_slider").slick({
     dots: true,
     infinite: true,
